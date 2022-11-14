@@ -1,0 +1,2 @@
+module ariketa_String {
+}
